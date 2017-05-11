@@ -1,0 +1,39 @@
+State,Poplation,multiplier,Number of fake news,normalised activity,Reporter name,Reporter handle,organisation
+AK,"741,894",0.001347901,2,0.002695802,John Sharp,@JohnSharp99,Birmingham News
+AL ,"4,863,300",0.000205622,4,0.000822488,Jerzy Shedlock,@jerzyms,Alaska Dispatch News
+AR,"2,988,248",0.000334644,1,0.000334644,EJ Montini,@ejmontini,Arizona Republic
+AZ,"6,931,071",0.000144278,10,0.00144278,Mike Wickline,@MikeWickline,Arkansas Democrat-Gazette
+CA,"39,250,017",2.55E-05,45,0.0011475,Ann Friedman,@annfriedman,Los Angeles Times
+CO ,"5,540,545",0.000180488,1,0.000180488,Eric Lubbers,@brofax,The Denver Post
+CT,"3,576,452",0.000279607,3,0.000838821,Russell Blair,@RussellBlairCT,Hartfourd Courant
+FL,"20,612,439",4.85E-05,18,0.000873,Glenn Kessler,@GlennKesslerWP,Washington Post
+GA,"10,310,371",9.70E-05,6,0.000582,Joshua Gillin,@jpgillin,Tampa Bay Times
+IL,"12,801,539",7.81E-05,5,0.0003905,Fiza Pirani,@FizaPirani,Atlanta Journal-Constitution
+IN,"6,633,053",0.00015076,3,0.00045228,Rob Shikina,@rshikina,Honolulu Star-Advertiser
+KS,"2,907,289",0.000343963,1,0.000343963,Mackenzie Ryan,@Mackenzie_Ryan,Des Moines Register
+KY,"4,436,974",0.000225379,1,0.000225379,,,
+LA,"4,681,666",0.000213599,1,0.000213599,Will Higgins,@WillRHiggins,Indianapolis Star
+MA,"6,811,779",0.000146805,1,0.000146805,,,
+MD,"6,016,447",0.000166211,2,0.000332422,,,
+ME,"1,331,479",0.000751045,2,0.00150209,,,
+MI,"9,928,300",0.000100722,2,0.000201444,,,
+MN,"5,519,952",0.000181161,1,0.000181161,,,
+MO ,"6,093,000",0.000164123,2,0.000328246,Sanchari Chowdhuri,c_sanchari,
+MS,"2,988,726",0.000334591,2,0.000669182,,,
+NC,"10,146,788",9.86E-05,7,0.0006902,,,
+ND,"757,952",0.001319345,1,0.001319345,,,
+NJ,"8,944,469",0.000111801,2,0.000223602,,,
+NM,"2,081,015",0.000480535,1,0.000480535,,,
+NV,"2,940,058",0.000340129,8,0.002721032,Jesse Granger,@JesseGranger_,Las Vegas Sun
+NY,"19,745,289",5.06E-05,10,0.000506,,,
+OH,"11,614,373",8.61E-05,7,0.0006027,,,
+OR,"4,093,465",0.000244292,4,0.000977168,,,
+PA,"12,784,227",7.82E-05,7,0.0005474,Sydney Ember,@melbournecoal,New York Times
+SC,"4,961,119",0.000201567,1,0.000201567,,,
+TN,"6,651,194",0.000150349,10,0.00150349,Michael Collins,@mcollinsNEWS,The Tennessean
+TX,"27,862,596",3.59E-05,13,0.0004667,,,
+UT,"3,051,217",0.000327738,1,0.000327738,,,
+VA,"8,411,808",0.000118881,5,0.000594405,,,
+WA,"7,288,000",0.000137212,6,0.000823272,,,
+WI,"5,778,708",0.000173049,10,0.00173049,Gina Barton,@writerbarton,Milwaukee Journal Sentinel
+,,#DIV/0!,,#DIV/0!,,,
